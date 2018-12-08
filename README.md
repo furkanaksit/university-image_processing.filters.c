@@ -8,7 +8,7 @@ Things to be done:
   *calculate the gaussian filter yourself
   *general optimization
   *there is problem with naming the file - sort it out
-
+  
 "Written for Image Processing course."
 
 
@@ -22,3 +22,6 @@ Apply Laplacian to the original image for Edge Detection  -
 Write processed image to new .PGM file
 
 Calculate the success of the filters in Edge Detection
+
+
+** You need to use command line to run the program as photo_reader_V1.exe name_of_the_image
