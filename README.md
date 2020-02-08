@@ -27,3 +27,6 @@ Calculate the success of the filters in Edge Detection
 ** You need to use command line to run the program as photo_reader_V1.exe name_of_the_image
 
 -----------------------------------------------------------------------------------------------
+This program has developed in the beginning of third grade of Computer Engineering Bachelor Degree.
+As it can be seen it is fairly basic program and it has too many mistakes. It will stay in my repository to allow people to see my progress.
+New program is a 2 hour challenge for myself after 14 months.
