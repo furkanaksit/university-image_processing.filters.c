@@ -9,7 +9,7 @@ Things to be done:
   *general optimization
   *there is problem with naming the file - sort it out
   
-"Written for Image Processing course."
+"Written for Image Processing Course."
 
 
 Read .PGM files.
@@ -25,3 +25,5 @@ Calculate the success of the filters in Edge Detection
 
 
 ** You need to use command line to run the program as photo_reader_V1.exe name_of_the_image
+
+-----------------------------------------------------------------------------------------------
