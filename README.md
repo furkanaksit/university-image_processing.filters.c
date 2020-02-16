@@ -1,4 +1,7 @@
 # image_processing.filters.c
+Code is updated after 14 months with better knowledge and better programming skills. New goals has been set to turn this basic course project to bigger personal project.
+---
+
 Applying gauss, sobel and laplacian filters using convolution matrix
 
 It is early stage of the project.
